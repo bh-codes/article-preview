@@ -385,12 +385,12 @@ path {
         border-color: hsl(217, 19%, 35%) transparent transparent transparent;
       }
 
-      button.desktop-arrow  {
+      button.popup-arrow  {
         background-color: hsl(210, 46%, 95%);
         padding-bottom: 3px;
       }
 
-      button.desktop-arrow path {
+      button.popup-arrow path {
         fill: hsl(217, 19%, 35%);
       }
 
