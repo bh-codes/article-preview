@@ -385,20 +385,20 @@ path {
         border-color: hsl(217, 19%, 35%) transparent transparent transparent;
       }
 
-      button.desktop-share-arrow {
+      button.desktop-arrow  {
         background-color: hsl(214, 17%, 51%);
         padding-bottom: 3px;
       }
 
-      button.desktop-share-arrow path {
+      button.desktop-arrow path {
         fill: white;
       }
 
-      button.change {
+      button.hide {
         background-color: hsl(210, 46%, 95%);
       }
 
-      button.change path {
+      button.hide path {
         fill: hsl(217, 19%, 35%);
       }
 
