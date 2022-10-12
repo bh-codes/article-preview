@@ -386,20 +386,20 @@ path {
       }
 
       button.desktop-arrow  {
-        background-color: hsl(214, 17%, 51%);
+        background-color: hsl(210, 46%, 95%);
         padding-bottom: 3px;
       }
 
       button.desktop-arrow path {
-        fill: white;
+        fill: hsl(217, 19%, 35%);
       }
 
       button.hide {
-        background-color: hsl(210, 46%, 95%);
+        background-color: hsl(214, 17%, 51%);
       }
 
       button.hide path {
-        fill: hsl(217, 19%, 35%);
+        fill: white;
       }
 
       button.share-arrow {
