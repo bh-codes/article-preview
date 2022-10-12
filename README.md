@@ -33,8 +33,8 @@ article-preview.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/bh-codes/article-preview
+- Live Site URL: https://bh-codes.github.io/article-preview/
 
 ## My process
 
