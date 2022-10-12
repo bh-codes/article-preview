@@ -98,6 +98,7 @@ textarea {
   border-radius: 0 0 20px 20px;
   width: 335px;
   background-color: white;
+  padding-top: 10px;
 }
 
 body {
@@ -112,10 +113,10 @@ picture img {
   border-radius: 20px 20px 0 0;
 }
 
-h3 {
+h1 {
   color: hsl(217, 19%, 35%);
   font-weight: 700;
-  padding: 30px 30px 15px 30px;
+  padding: 20px 30px 15px 30px;
   word-spacing: 2px;
   font-size: 1.2em;
 }
@@ -322,12 +323,12 @@ path {
       .container {
         border-radius: 0 20px 20px 0;
         min-width: 425px;
-        height: 300px;
+        max-height: 290px;
         background-color: white;
       }
 
-      h3 {
-        padding: 30px 40px 0 40px;
+      h1 {
+        padding: 10px 40px 0 40px;
         font-size: 1.45em;
       }
 
@@ -367,7 +368,7 @@ path {
         height: 50px;
         position: relative;
         left: 58%;
-        top: -50%;
+        bottom: 150px;
         z-index: 1;
         display: flex;
         justify-content: space-evenly;
